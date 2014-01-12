@@ -1,0 +1,23 @@
+{
+  "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
+  "name": "iridium-timestamps",
+  "description": "Iridium plugin for automatic creation and modification timestamping",
+  "keywords": [
+    "iridium",
+    "timestamps",
+    "plugin",
+    "creation",
+    "date"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "url": "http://github.com/SierraSoftworks/iridium-timestamps"
+  },
+  "contributors": [
+    { "name" : "Benjamin Pannell", "email" : "admin@sierrasoftworks.com" }
+  ],
+  "scripts": {
+  },
+  "main": "./lib/plugin"
+}
